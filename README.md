@@ -28,7 +28,7 @@ $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi)
 
 yazın.
 
-2.[Buraya tıklayarak]("https://kafka.apache.org/downloads") kafka web sitesine gidip Scala 2.12'yi indirin
+2. [Buraya tıklayarak]("https://kafka.apache.org/downloads") kafka web sitesine gidip Scala 2.12'yi indirin
 
 3. Sırada topic oluşturmak var 
 
