@@ -28,9 +28,11 @@ $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi)
 
 yazın.
 
-2. Sırada topic oluşturmak var 
+2.[Buraya tıklayarak]("https://kafka.apache.org/downloads") kafka web sitesine gidip Scala 2.12'yi indirin
 
-İndirdiğiniz dosyada terminali açın ve 
+3. Sırada topic oluşturmak var 
+
+İndirdiğiniz dosyaya gidip terminali açın ve 
 
 $ bin/kafka-topics.sh --create --topic earthquake-topic --bootstrap-server localhost:9092
 
