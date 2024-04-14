@@ -5,13 +5,15 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 ### Gereksinimler
 
-1)JDK (Java Development Kit)
+1. JDK (Java Development Kit)
 
-2)IntelliJ IDEA veya tercih ettiğiniz bir Java IDE
+2. IntelliJ IDEA veya tercih ettiğiniz bir Java IDE
 
-3)Node.js
+3. Node.js
 
-4)VS Code veya tercih ettiğiniz bir metin editörü
+4. VS Code veya tercih ettiğiniz bir metin editörü
+
+5. Docker Desktop
 
 
 ### Kurulum
