@@ -24,7 +24,15 @@ $ docker pull apache/kafka:3.7.0  (docker image'ını bilgisayara çekme işlemi
 
 $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi) 
 
-yazın 
+yazın.
+
+Sırada topic oluşturmak var 
+
+İndirdiğiniz dosyada terminali açın ve 
+
+$ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+
+yazın.
 
 
 ### Başlangıç
