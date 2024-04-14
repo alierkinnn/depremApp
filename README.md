@@ -22,21 +22,21 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 1. Terminali açın ve sırayla
 
-$ docker pull apache/kafka:3.7.0  (docker image'ını bilgisayara çekme işlemi)
+  $ docker pull apache/kafka:3.7.0  (docker image'ını bilgisayara çekme işlemi)
 
-$ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi) 
+  $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi) 
 
-yazın.
+  yazın.
 
 2. [Buraya tıklayarak](https://kafka.apache.org/downloads "Kafka") kafka web sitesine gidip Scala 2.12'yi indirin
 
 3. Sırada topic oluşturmak var 
 
-İndirdiğiniz dosyaya gidip terminali açın ve 
+  İndirdiğiniz dosyaya gidip terminali açın ve 
 
-$ bin/kafka-topics.sh --create --topic earthquake-topic --bootstrap-server localhost:9092
+  $ bin/kafka-topics.sh --create --topic earthquake-topic --bootstrap-server localhost:9092
 
-yazın.
+  yazın.
 
 
 ### Başlangıç
