@@ -18,6 +18,13 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 ### Kurulum
 
+1. $ docker pull apache/kafka:3.7.0 (docker image'ını bilgisayara çekin)
+2. $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatın)
+3. 
+
+
+### Başlangıç
+
 * Projeyi bilgisayarınıza klonlayın:
 
 * IntelliJ IDEA veya tercih ettiğiniz Java IDE'sinde backend klasörünü açın ve uygulamayı çalıştırın
