@@ -3,7 +3,7 @@
 Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depremleri gösterebilen bir web uygulamasını içermektedir.
 
 
-Gereksinimler
+# Gereksinimler#
 
 1)JDK (Java Development Kit)
 
@@ -14,7 +14,7 @@ Gereksinimler
 4)VS Code veya tercih ettiğiniz bir metin editörü
 
 
-Kurulum
+# Kurulum
 
 -Projeyi bilgisayarınıza klonlayın:
 
