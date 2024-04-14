@@ -15,6 +15,8 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 5. Docker Desktop
 
+6. Kafka
+
 
 ### Kurulum
 
