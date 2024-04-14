@@ -62,3 +62,9 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde depremleri gös
 
 * 1.Script başarıyla tamamlandığında ve 2.Script'te üretme işlemi durduğunda son 1 dakika içindeki depremler 50km çevresindeki depremler filtrelenerek çekilir. Ayrıca her 15 saniyede bir istek atılır.
 
+### Görüntüler
+
+![Harita](images/resim1.jpeg)
+
+
+
