@@ -1,6 +1,6 @@
 # Deprem Haritası
 
-Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depremleri gösterebilen bir web uygulamasını içermektedir.
+Bu proje, basit bir panel içerisinde dünya haritası üzerinde depremleri gösterebilen bir web uygulamasını içermektedir.
 
 
 ### Gereksinimler
@@ -46,4 +46,19 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 * IntelliJ IDEA veya tercih ettiğiniz Java IDE'sinde backend klasörünü açın ve uygulamayı çalıştırın
 
 * VS Code veya tercih ettiğiniz metin editöründe frontend klasörünü açın ve uygulamayı çalıştırın
+
+
+### Notlar
+
+#### 1.Script
+
+* Boşluklara girilen değerler ile sorunsuz bir şekilde veri eklenebilir.
+
+#### 2.Script
+
+* Butona basıldığı andan itibaren 3 saniyede bir rastgele deprem üretilerek sisteme dahil edilir, durdurulduğunda ise üretme işlemi durur ve eklenen depremler haritada gösterilir.
+
+#### Depremleri çekme işlemi
+
+* 1.Script başarıyla tamamlandığında ve 2.Script'te üretme işlemi durduğunda son 1 dakika içindeki depremler 50km çevresindeki depremler filtrelenerek çekilir. Ayrıca her 15 saniyede bir istek atılır.
 
