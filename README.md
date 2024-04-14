@@ -1,6 +1,7 @@
-# depremApp
+# Deprem Haritası
 
 Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depremleri gösterebilen bir web uygulamasını içermektedir.
+
 
 Gereksinimler
 
@@ -11,6 +12,7 @@ Gereksinimler
 3)Node.js
 
 4)VS Code veya tercih ettiğiniz bir metin editörü
+
 
 Kurulum
 
