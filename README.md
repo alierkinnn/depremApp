@@ -20,7 +20,7 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 ### Kurulum
 
-Terminali açın ve sırayla
+1. Terminali açın ve sırayla
 
 $ docker pull apache/kafka:3.7.0  (docker image'ını bilgisayara çekme işlemi)
 
@@ -28,7 +28,7 @@ $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi)
 
 yazın.
 
-Sırada topic oluşturmak var 
+2 .Sırada topic oluşturmak var 
 
 İndirdiğiniz dosyada terminali açın ve 
 
