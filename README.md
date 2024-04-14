@@ -28,11 +28,11 @@ $ docker run -p 9092:9092 apache/kafka:3.7.0 (başlatma işlemi)
 
 yazın.
 
-2 .Sırada topic oluşturmak var 
+2. Sırada topic oluşturmak var 
 
 İndirdiğiniz dosyada terminali açın ve 
 
-$ bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+$ bin/kafka-topics.sh --create --topic earthquake-topic --bootstrap-server localhost:9092
 
 yazın.
 
