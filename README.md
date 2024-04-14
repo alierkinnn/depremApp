@@ -66,5 +66,7 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde depremleri gös
 
 ![Harita](images/resim1.jpeg)
 
+![Harita](images/resim2.jpeg)
+
 
 
