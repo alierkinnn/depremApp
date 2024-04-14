@@ -16,9 +16,9 @@ Bu proje, basit bir panel içerisinde dünya haritası üzerinde anormal depreml
 
 ### Kurulum
 
--Projeyi bilgisayarınıza klonlayın:
+*Projeyi bilgisayarınıza klonlayın:
 
--IntelliJ IDEA veya tercih ettiğiniz Java IDE'sinde backend klasörünü açın ve uygulamayı çalıştırın
+*IntelliJ IDEA veya tercih ettiğiniz Java IDE'sinde backend klasörünü açın ve uygulamayı çalıştırın
 
--VS Code veya tercih ettiğiniz metin editöründe frontend klasörünü açın ve uygulamayı çalıştırın
+*VS Code veya tercih ettiğiniz metin editöründe frontend klasörünü açın ve uygulamayı çalıştırın
 
